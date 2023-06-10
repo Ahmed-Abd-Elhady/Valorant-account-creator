@@ -2,6 +2,7 @@
 This is automatic method to create valorant account with google chrome 👌
 
 if you have any problem do this 
+
 1-you need to install Chrome browser 
 
 2-in the folder you will se file called "requirements moduels install.bat" run it
