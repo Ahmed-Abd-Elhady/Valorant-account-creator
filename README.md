@@ -15,4 +15,4 @@ used lang(python)
 
 
 
-this code don't try to broken riot servers or any thing this just try to help you when create new account 🙌
+this code don't try to brokeing riot servers or any thing this just try to help you when create new account 🙌
