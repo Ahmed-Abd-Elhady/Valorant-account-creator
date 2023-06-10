@@ -1,7 +1,7 @@
 # Valorant-account-creator
 This is automatic method to create valorant account with google chrome 👌
 
-if you have any problem do this 
+if you have any problem🤦‍♀️ do this 
 
 1-you need to install Chrome browser 
 
