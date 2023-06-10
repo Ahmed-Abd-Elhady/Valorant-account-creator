@@ -11,4 +11,8 @@ if you have any problem🤦‍♀️ do this
 
 
 used lang(python)
+
+
+
+
 this code don't try to broken riot servers or any thing this just try to help you when create new account 🙌
