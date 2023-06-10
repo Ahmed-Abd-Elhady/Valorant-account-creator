@@ -1,5 +1,5 @@
 # Valorant-account-creator
-This is automatic method to create valorant account with google chrome 👌
+This is automatic method python to create valorant account with google chrome 👌
 
 if you have any problem🤦‍♀️ do this 
 
